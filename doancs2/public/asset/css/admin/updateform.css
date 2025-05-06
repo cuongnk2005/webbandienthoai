@@ -1,0 +1,8 @@
+.ck-editor__editable {
+    min-height: 400px; /* Đặt chiều cao tối thiểu */
+    height: 800px;     /* Đặt chiều cao cố định */
+    width: 800px;      /* Đặt chiều rộng cố định */
+}
+.size{
+    height: 700px;
+}

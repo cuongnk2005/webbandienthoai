@@ -1,0 +1,156 @@
+#weatherWidget .currentDesc {
+  color: #ffffff !important;
+}
+.traffic-chart {
+  min-height: 335px;
+}
+#flotPie1 {
+  height: 150px;
+}
+#flotPie1 td {
+  padding: 3px;
+}
+#flotPie1 table {
+  top: 20px !important;
+  right: -10px !important;
+}
+.chart-container {
+  display: table;
+  min-width: 270px;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#flotLine5 {
+  height: 105px;
+}
+
+#flotBarChart {
+  height: 150px;
+}
+#cellPaiChart {
+  height: 160px;
+}
+.font-list {
+  font-size: 15px;
+}
+
+.edit {
+  margin-left: 10px;
+}
+.edit1 {
+  margin-left: 40px;
+}
+.m-wTD1 {
+  max-width: 70px;
+}
+.m-wTD {
+  max-width: 40px;
+}
+
+.txt-center {
+  text-align: left;
+}
+.space-edit {
+  margin-left: 10px;
+}
+.btn-add {
+  float: right;
+}
+.sizeTh {
+  max-width: 10px;
+}
+.edit3 {
+  margin-left: 15px;
+}
+
+.space-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.pagination-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Đặt kiểu cho danh sách phân trang */
+.pagination1 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+}
+
+/* Đặt kiểu cho mỗi thẻ <li> */
+.pagination1 li {
+  margin: 0 5px;
+}
+
+/* Kiểu cho các liên kết phân trang */
+.pagination1 span {
+  display: block;
+  padding: 8px 16px;
+  background-color: #fff;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+/* Kiểu cho liên kết đang hoạt động (active) */
+.pagination1 span.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Hiệu ứng hover cho các liên kết */
+.pagination1 span:hover {
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+/* Kiểu cho các nút "Previous" và "Next" */
+.pagination1 .prev, .pagination1 .next {
+  font-weight: bold;
+}
+
+/* Hiệu ứng hover cho "Previous" và "Next" */
+.pagination1 .prev:hover, .pagination1 .next:hover {
+  background-color: #007bff;
+}
+
+/*----- prev-next-----*/
+.post-navigation {
+  margin-bottom: 30px;
+  background-color: #fff;
+  padding: 30px;
+}
+.nav-links {
+  text-decoration: none;
+}
+.nav-previous {
+}
+.prev-link {
+  color: #8b8e90;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 400;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.next-link {
+  color: #8b8e90;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+.nav-next {
+}
+.previous-next-title {
+  margin-bottom: 5px;
+}

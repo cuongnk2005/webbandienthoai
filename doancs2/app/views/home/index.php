@@ -1,0 +1,1 @@
+<h1>Đây là home trong view</h1>
